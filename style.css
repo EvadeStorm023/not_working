@@ -1,0 +1,13 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas{
+    width: 700;
+    height: 510;
+    border: blue ridge 5px;
+    background-color: aliceblue;
+}
+
